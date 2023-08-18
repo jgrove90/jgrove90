@@ -1,23 +1,26 @@
-### Hi there 👋
+
+## <img src="icons/wave.gif" alt="python" width="25" height="25" style="float:left"/> About 
+I'm a passionate coder with a keen interest for data, specifically data engineering. I find joy in architecting solutions that leverage technology to solve real-world challenges. Beyond the screen, I have a unique set of hobbies that bring balance to my life. I'm an amature mycologist that grows gourmet mushrooms and forages on occasion.  When I'm not immersed in code, you'll find me exploring the outdoors on my mountain bike, chasing new trails and breathtaking vistas. Embracing both the digital and natural realms, I'm always excited to embark on new adventures and discoveries.
+
 
 ## ⚒️ My Toolbox
 
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50" style="float:left"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazon" width="50" height="50" style="float:left"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="50" height="50" style="float:left" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="50" height="50" style="float:left" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50" height="50" style="float:left" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="git" width="50" height="50" style="float:left" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="TSQL" width="50" height="50" style="float:left" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" style="float:left" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="50" height="50" style="float:left" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50" style="float:left" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="selenium" width="50" height="50" style="float:left" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50" style="float:left" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="anaconda" width="50" height="50" style="float:left" />
-    <img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="apache-airflow" width="50" height="50" style="float:left" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/512px-Apache_Spark_logo.svg.png?20210416091439" alt="apache-spark" width="75" height="50" style="float:left" />
+    <img src="icons/python.svg" alt="python" width="50" height="50" style="float:left"/>
+    <img src="icons/amazonwebservices-original.svg" alt="amazon" width="50" height="50" style="float:left"/>
+    <img src="icons/bash-original.svg" alt="bash" width="50" height="50" style="float:left" />
+    <img src="icons/pandas-original-wordmark.svg" alt="pandas" width="50" height="50" style="float:left" />
+    <img src="icons/git-original.svg" alt="git" width="50" height="50" style="float:left" />
+    <img src="icons/postgresql-original.svg" alt="git" width="50" height="50" style="float:left" />
+    <img src="icons/microsoftsqlserver-plain.svg" alt="TSQL" width="50" height="50" style="float:left" />
+    <img src="icons/docker-original-wordmark.svg" alt="docker" width="50" height="50" style="float:left" />
+    <img src="icons/linux-original.svg" alt="linux" width="50" height="50" style="float:left" />
+    <img src="icons/nginx-original.svg" alt="nginx" width="50" height="50" style="float:left" />
+    <img src="icons/selenium-original.svg" alt="selenium" width="50" height="50" style="float:left" />
+    <img src="icons/vscode-original.svg" alt="vscode" width="50" height="50" style="float:left" />
+    <img src="icons/anaconda-original.svg" alt="anaconda" width="50" height="50" style="float:left" />
+    <img src="icons/airflow.svg" alt="apache-airflow" width="50" height="50" style="float:left" />
+    <img src="icons/Apache_Spark_logo.svg.png" alt="apache-spark" width="75" height="50" style="float:left" />
 </p>  
 
 <!--
