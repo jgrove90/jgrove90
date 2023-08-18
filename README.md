@@ -22,6 +22,8 @@
     <img src="icons/Apache_Spark_logo.svg.png" alt="apache-spark" width="75" height="50" style="float:left" />
     <img src="icons/delta-lake-logo.png" alt="delta-lake" width="50" height="50" style="float:left" />
     <img src="icons/ArcGIS-Pro.png" alt="ArcGIS-Pro" width="50" height="50" style="float:left" />
-     <img src="icons/QGIS.png" alt="QGIS" width="50" height="50" style="float:left" />
+    <img src="icons/QGIS.png" alt="QGIS" width="50" height="50" style="float:left" />
+    <img src="icons/Power_BI_Logo.png" alt="powerbi" width="50" height="50" style="float:left" />
+    <img src="icons/tableau.svg" alt="tableau" width="50" height="50" style="float:left" />
 </p>  
 
