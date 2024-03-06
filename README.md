@@ -25,4 +25,6 @@
     <img src="icons/Power_BI_Logo.png" alt="powerbi" width="50" height="50" style="float:left" />
     <img src="icons/tableau.svg" alt="tableau" width="50" height="50" style="float:left" />
     <img src="icons/terraform.svg" alt="terraform" width="50" height="50" style="float:left" />
+    <img src="icons/polars.png" alt="polars" width="60" height="40" style="float:left" />
+    <img src="icons/gitlab.png" alt="gitlab" width="50 height="50" style="float:left" />
 </p>
