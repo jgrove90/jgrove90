@@ -17,7 +17,7 @@ Most of my projects revolve around:
 
 I enjoy turning fragile manual processes into reliable automated systems and designing architectures that can survive both growth and human error.
 
-## ⚒️ ls ~/toolbox
+## ls ~/toolbox
 
 <p align="center">
     <img src="icons/python.svg" alt="python" width="50" height="50" style="float:left"/>
@@ -32,3 +32,7 @@ I enjoy turning fragile manual processes into reliable automated systems and des
     <img src="icons/terraform.svg" alt="terraform" width="50" height="50" style="float:left" />
     <img src="icons/polars.png" alt="polars" width="60" height="40" style="float:left" />
 </p>
+
+## cat publications
+
+- [*Improvements on scalable and reproducible cloud implementation of numerical groundwater modeling*](https://raw.githubusercontent.com/yourusername/yourrepo/main/papers/groundwater_modeling.pdf) — Roth, M., Grove, J., Davis, A., & Cornell, J. (2025), **Groundwater**.
