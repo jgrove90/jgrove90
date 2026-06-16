@@ -1,5 +1,21 @@
-## <img src="icons/wave.gif" alt="python" width="25" height="25" style="float:left"/> Hello 
-<p>I'm a passionate coder with a keen interest for automation. I find joy in architecting solutions that leverage technology to solve real-world challenges.</p>
+## <img src="icons/wave.gif" alt="python" width="25" height="25" style="float:left"/> whoami
+
+Systems Engineer, Data Engineer, and Automation Enthusiast.
+
+I build infrastructure, automate workflows, manage Linux systems, and move data around at scale while solving business problems.
+
+Most of my projects revolve around:
+
+- Linux
+- Terraform
+- AWS
+- Docker & Kubernetes
+- Python Automation
+- PostgreSQL
+- Data Platforms
+- Self-Hosted Infrastructure
+
+I enjoy turning fragile manual processes into reliable automated systems and designing architectures that can survive both growth and human error.
 
 ## ⚒️ My Toolbox
 
