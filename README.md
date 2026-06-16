@@ -23,7 +23,6 @@ I enjoy turning fragile manual processes into reliable automated systems and des
     <img src="icons/python.svg" alt="python" width="50" height="50" style="float:left"/>
     <img src="icons/amazonwebservices-original.svg" alt="amazon" width="50" height="50" style="float:left"/>
     <img src="icons/bash-original.svg" alt="bash" width="50" height="50" style="float:left" />
-    <img src="icons/pandas-original-wordmark.svg" alt="pandas" width="50" height="50" style="float:left" />
     <img src="icons/git-original.svg" alt="git" width="50" height="50" style="float:left" />
     <img src="icons/postgresql-original.svg" alt="git" width="50" height="50" style="float:left" />
     <img src="icons/docker-original-wordmark.svg" alt="docker" width="50" height="50" style="float:left" />
@@ -31,5 +30,4 @@ I enjoy turning fragile manual processes into reliable automated systems and des
     <img src="icons/nginx-original.svg" alt="nginx" width="50" height="50" style="float:left" />
     <img src="icons/terraform.svg" alt="terraform" width="50" height="50" style="float:left" />
     <img src="icons/polars.png" alt="polars" width="60" height="40" style="float:left" />
-    <img src="icons/gitlab.png" alt="gitlab" width="50 height="50" style="float:left" />
 </p>
